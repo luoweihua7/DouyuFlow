@@ -3,11 +3,5 @@
 
 # How To
 
-列表信息(默认搜第一页的王者荣耀数据，有需要可以在Alfredflow中调整分类category的id)
-
-![Screenshot](images/preview1.gif)
-<br>
-
-搜索
-
-![Screenshot](images/preview2.gif)
+默认搜王者荣耀数据，有需要可以在Alfredflow中调整分类category的id
+![Screenshot](images/screenshot.gif)
